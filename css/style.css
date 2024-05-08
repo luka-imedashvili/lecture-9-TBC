@@ -1,0 +1,138 @@
+header {
+    padding: 24px 0px 18px;
+}
+.container {
+    width: 1261px;
+    margin: 0 auto;
+}
+header .container {
+    display: flex;
+    justify-content: space-between;
+}
+nav {
+    height: auto;
+    padding-top: 10.8px;
+}
+.logo {
+    vertical-align: middle;
+}
+nav,
+li {
+    display: inline-block;
+    vertical-align: middle;
+}
+.li {
+    margin-left: 50px;
+}
+h2 {
+    color: #636060;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.s-1 {
+    height: 606px;
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.wrapper h2 {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 79px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.wrapper h4 {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+/* s-1 end */
+.s-2 {
+    padding-top: 84px;
+    padding-bottom: 140px;
+}
+.container2 {
+    width: 1262px;
+    margin: 0 auto;
+}
+.div1 {
+    width: 235px;
+    display: inline-block;
+    margin-right: 83px;
+}
+.div1 h4 {
+    color: #636060;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.div1 h3 {
+    color: #010101;
+    font-family: Roboto;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 9px;
+}
+.div1 p {
+    color: #636060;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 37px;
+}
+.div2 {
+    height: 700px;
+    width: 921px;
+    display: inline-flex;
+    vertical-align: top;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.card1 {
+    height: 312px;
+    width: 285px;
+}
+.cardh {
+    color: #343232;
+    font-family: Roboto;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 23px;
+}
+.cardp {
+    color: #636060;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 9px;
+    width: 285px;
+}
